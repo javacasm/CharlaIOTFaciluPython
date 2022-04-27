@@ -1,5 +1,7 @@
 # Internet de las cosas fácil con micropython ... y el openSource....
 
+## [https://bit.ly/IOTuPython](https://bit.ly/IOTuPython)
+
 ## Granabot 2022
 
 ## José Antonio Vacas @javacasm
